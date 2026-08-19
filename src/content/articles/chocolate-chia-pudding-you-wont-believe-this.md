@@ -2,7 +2,7 @@
 title: "Chocolate Chia Pudding: You Won't Believe This"
 meta: "Learn how to make chocolate chia pudding for camping with a no-cook method, gear tips, and a trick to avoid a soggy mess. You won't believe this easy recipe."
 category: "Chocolate Cakes & Cupcakes"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-chia-pudding-you-wont-believe-this.webp"
 pubDate: "2026-07-14T12:58:40Z"
 recipe: "{\"title\": \"Chocolate Chia Pudding: You Won't Believe This\", \"ingredients\": [\"1/4 cup chia seeds\", \"1 cup unsweetened almond milk (or any milk)\", \"2 tablespoons unsweetened cocoa powder\", \"1 1/2 tablespoons maple syrup (or honey)\", \"1/4 teaspoon vanilla extract\", \"1 pinch sea salt\"], \"instructions\": [\"In a 16-ounce jar with a tight lid, combine the chia seeds, almond milk, cocoa powder, maple syrup, vanilla extract, and sea salt.\", \"Close the lid tightly and shake vigorously for 30 seconds. Let it sit for 5 minutes, then shake again. Repeat one more time after 10 minutes.\", \"Place the jar in your cooler or an insulated food jar. Let it set for at least 4 hours, preferably overnight.\", \"Before serving, stir well. If the pudding is too thick, add a splash of milk. Top with berries, nuts, or a dollop of yogurt if desired.\"], \"equipment\": [], \"servings\": \"2\", \"prep_time\": \"10\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
