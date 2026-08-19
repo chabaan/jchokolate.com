@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jchokolate.com/sitemap-index.xml
