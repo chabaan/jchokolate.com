@@ -2,7 +2,7 @@
 title: "Chocolate Breakfast Overnight Oats: Camping Hack for Mornings"
 meta: "Make chocolate breakfast overnight oats at your tent site with this no-cook camping hack. Prep the night before for a cozy, fuel-filled start."
 category: "Chocolate Desserts & Inspiration"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-breakfast-overnight-oats-camping-hack-for-mornings.webp"
 pubDate: "2026-07-26T16:50:39Z"
 recipe: "{\"title\": \"Chocolate Breakfast Overnight Oats: Camping Hack for Mornings\", \"ingredients\": [\"1 cup rolled oats\", \"2 tablespoons unsweetened cocoa powder\", \"1 tablespoon chia seeds\", \"1 tablespoon maple syrup or honey (adjust to taste)\", \"1 cup milk (dairy or plant-based)\", \"1/2 teaspoon vanilla extract (optional)\", \"1 medium banana, sliced (for topping)\"], \"instructions\": [\"In a clean pint-size mason jar or sealable container, combine the rolled oats, cocoa powder, chia seeds, and maple syrup.\", \"Pour in the milk and vanilla extract (if using). Stir well until the cocoa powder is fully incorporated and no dry patches remain.\", \"Screw the lid on tightly and shake the jar vigorously for about 15 seconds to ensure even mixing.\", \"Refrigerate the jar overnight, or for at least 6 hours, in your cooler or refrigerator.\", \"In the morning, stir the oats again. If they seem too thick, add a splash of milk to loosen them.\", \"Top with sliced banana and enjoy straight from the jar or a bowl.\"], \"equipment\": [], \"servings\": \"2\", \"prep_time\": \"10\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
