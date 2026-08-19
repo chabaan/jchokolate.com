@@ -2,7 +2,7 @@
 title: "Rich Vegan Chocolate Cake That Melts in Your Mouth"
 meta: "Learn the technique to bake a moist chocolate vegan cake that melts in your mouth. One key trick keeps it tender without eggs or dairy."
 category: "Chocolate Cakes & Cupcakes"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/rich-vegan-chocolate-cake-that-melts-in-your-mouth.webp"
 pubDate: "2026-07-30T18:26:59Z"
 recipe: "{\"title\": \"Rich Vegan Chocolate Cake That Melts in Your Mouth\", \"ingredients\": [\"1.5 cups all-purpose flour\", \"1 cup granulated sugar\", \"1/3 cup unsweetened cocoa powder\", \"1 teaspoon baking soda\", \"1/2 teaspoon salt\", \"1 cup warm water (not boiling, just hot from the tap)\", \"1/3 cup vegetable oil (or melted coconut oil)\", \"1 tablespoon apple cider vinegar\", \"1 teaspoon vanilla extract\"], \"instructions\": [\"Preheat your oven to 350°F (175°C). Grease an 8-inch round cake pan or line it with parchment paper.\", \"In a large bowl, whisk together the flour, sugar, cocoa powder, baking soda, and salt until no lumps remain.\", \"Add the warm water, oil, apple cider vinegar, and vanilla extract. Stir until just combined—do not overmix. The batter will be thin.\", \"Pour the batter into the prepared pan. Bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean or with a few moist crumbs.\", \"Let the cake cool in the pan for 10 minutes, then transfer to a wire rack to cool completely before frosting or serving.\"], \"equipment\": [], \"servings\": \"8\", \"prep_time\": \"15\", \"cook_time\": \"35\", \"total_time\": null, \"calories\": null}"
