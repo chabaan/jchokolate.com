@@ -2,7 +2,7 @@
 title: "Chocolate Bark: Everyone's Obsessed"
 meta: "Learn to make campfire chocolate bark with a pro tip for perfect tempering. Easy, no-bake treat for tent camping trips."
 category: "Truffles & Candy"
-author: "JuliaPrince12"
+author: "Julia Prince"
 image: "/images/chocolate-bark-everyones-obsessed.webp"
 pubDate: "2026-08-03T12:41:20Z"
 recipe: "{\"title\": \"Chocolate Bark: Everyone's Obsessed\", \"ingredients\": [\"12 oz dark chocolate (60-70% cocoa), chopped\", \"1/2 cup dried cranberries\", \"1/2 cup shelled pistachios, roughly chopped\", \"1/4 cup unsweetened coconut flakes\", \"1/2 tsp flaky sea salt\"], \"instructions\": [\"Line a small baking sheet or flat tray with parchment paper. Set aside.\", \"Set up a double boiler: place a heatproof bowl over a pot of simmering water (not boiling) on your camp stove or over campfire coals. Make sure the bowl does not touch the water.\", \"Add the chopped dark chocolate to the bowl. Stir gently and constantly with a dry spoon until just melted and smooth. Remove from heat immediately.\", \"Pour the melted chocolate onto the prepared tray. Use the back of a spoon to spread it into an even rectangle, about 1/4-inch thick.\", \"While the chocolate is still wet, sprinkle evenly with dried cranberries, chopped pistachios, and coconut flakes. Finish with a light dusting of flaky sea salt.\", \"Let the bark set at cool room temperature for about 30 minutes, or speed it up by placing the tray in a cooler (without ice) for 15 minutes. Once firm, break into irregular pieces.\", \"Store in a sealed container in a cool spot or cooler until ready to serve.\"], \"equipment\": [], \"servings\": \"8\", \"prep_time\": \"10\", \"cook_time\": \"5\", \"total_time\": null, \"calories\": null}"
