@@ -2,7 +2,7 @@
 title: "Chocolate Pretzel Rods: 5-Minute Hack"
 meta: "Make chocolate pretzel rods in 5 minutes for your camping trip. This easy hack uses no melting pot and stays firm in warm weather."
 category: "Truffles & Candy"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-pretzel-rods-5-minute-hack.webp"
 pubDate: "2026-07-30T22:00:12Z"
 recipe: "{\"title\": \"Chocolate Pretzel Rods: 5-Minute Hack\", \"ingredients\": [\"8 pretzel rods (standard size, about 8 inches long)\", \"1 cup dark chocolate chips (or milk chocolate chips, 60% cacao or higher for heat stability)\", \"1/2 teaspoon coconut oil (optional, helps thin the chocolate for even coating)\", \"sea salt flakes (for sprinkling, or crushed nuts, sprinkles, freeze-dried fruit)\"], \"instructions\": [\"Line a baking sheet or flat tray with parchment paper. Set it near your workspace.\", \"Pour the chocolate chips into a microwave-safe bowl. Add coconut oil if using. Microwave in 30-second bursts, stirring after each, until fully melted (about 1–1.5 minutes total).\", \"Dip each pretzel rod into the melted chocolate, turning to coat the bottom two-thirds. Let excess drip off back into the bowl.\", \"Place the coated rod on the parchment. While the chocolate is still wet, sprinkle with sea salt or your chosen topping.\", \"Let the rods set at room temperature until the chocolate hardens. In cool weather (below 70°F) this takes about 10 minutes. In warm weather, pop the tray in a cooler or fridge for 5 minutes.\", \"Store in an airtight container between layers of wax paper. They keep for up to 5 days at camp.\"], \"equipment\": [], \"servings\": \"8\", \"prep_time\": \"5\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
