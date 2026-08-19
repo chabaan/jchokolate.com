@@ -2,7 +2,7 @@
 title: "Warm Chocolate Peanut Butter Oatmeal in 5 Minutes at Camp"
 meta: "Make chocolate peanut butter oatmeal in 5 minutes at camp with this hack. No boil-over, no mess. Real technique for a hot, hearty breakfast."
 category: "Chocolate Desserts & Inspiration"
-author: "JuliaPrince12"
+author: "Julia Prince"
 image: "/images/warm-chocolate-peanut-butter-oatmeal-in-5-minutes-at-camp.webp"
 pubDate: "2026-08-03T10:29:55Z"
 recipe: "{\"title\": \"Warm Chocolate Peanut Butter Oatmeal in 5 Minutes at Camp\", \"ingredients\": [\"1/2 cup instant oats (Use rolled or quick, not steel-cut)\", \"1 tablespoon cocoa powder (Unsweetened, natural)\", \"1 tablespoon peanut butter powder (Optional, but deepens flavor)\", \"1 pinch salt\", \"1 tablespoon peanut butter (Regular, not low-fat)\", \"1 tablespoon chocolate chips (Semi-sweet or dark)\", \"3/4 cup hot water (Just off the boil)\"], \"instructions\": [\"In a heatproof bowl or camp mug, combine the instant oats, cocoa powder, peanut butter powder, and salt. Stir with a spoon until evenly mixed.\", \"Pour the hot water over the dry mix. Stir quickly and thoroughly — about 15 seconds — so no dry pockets remain.\", \"Let the oatmeal sit for 1 minute. The oats will absorb the water and thicken.\", \"Add the peanut butter and chocolate chips on top. Stir once more to melt them into the warm oatmeal. Eat immediately.\"], \"equipment\": [], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"3\", \"total_time\": null, \"calories\": null}"
