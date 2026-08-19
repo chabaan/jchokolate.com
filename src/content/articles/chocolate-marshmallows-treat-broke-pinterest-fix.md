@@ -2,7 +2,7 @@
 title: "Chocolate Marshmallows Treat: Broke Pinterest Fix"
 meta: "Fix your broken chocolate marshmallows treat from Pinterest with this tested tent camping method. No melty mess, just perfect gooey results."
 category: "Truffles & Candy"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-marshmallows-treat-broke-pinterest-fix.webp"
 pubDate: "2026-08-02T15:01:01Z"
 recipe: "{\"title\": \"Chocolate Marshmallows Treat: Broke Pinterest Fix\", \"ingredients\": [\"1 large marshmallow\", \"1 square dark or milk chocolate (from a thick bar) (at least 60% cocoa for better melt stability)\", \"1 graham cracker or sturdy cookie (optional, for serving)\"], \"instructions\": [\"Push the marshmallow onto a long roasting stick, leaving 1/4 inch of the stick exposed at the tip.\", \"Hold the marshmallow 4-6 inches above glowing campfire coals (not flames). Rotate slowly for 2-3 minutes until the outside is golden brown and the inside is warm but not liquid.\", \"Remove from heat. Immediately press the chocolate square onto the top of the marshmallow. Let it sit on the stick for 20 seconds — the residual heat will soften the chocolate without melting it into the fire.\", \"Slide the marshmallow and chocolate onto a graham cracker or eat directly. If using a cracker, press gently and wait 10 seconds before biting.\"], \"equipment\": [], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"4\", \"total_time\": null, \"calories\": null}"
