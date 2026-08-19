@@ -2,7 +2,7 @@
 title: "Chocolate Cake Pops Changes Everything for Camping Dessert"
 meta: "Chocolate cake pops changes everything about camping dessert. Learn my no-mess method for making these portable treats at your tent site."
 category: "Chocolate Cakes & Cupcakes"
-author: "JuliaPrince12"
+author: "Julia Prince"
 image: "/images/chocolate-cake-pops-changes-everything-for-camping-dessert.webp"
 pubDate: "2026-07-29T19:32:10Z"
 recipe: "{\"title\": \"Chocolate Cake Pops Changes Everything for Camping Dessert\", \"ingredients\": [\"1 box chocolate cake mix (plus ingredients listed on box (eggs, oil, water))\", \"1/2 cup chocolate frosting (store-bought or homemade)\", \"2 cups chocolate melting wafers (or chocolate chips)\", \"1 tablespoon coconut oil (optional, for thinning coating)\", \"12 lollipop sticks (or short wooden skewers)\"], \"instructions\": [\"Bake the chocolate cake according to package directions in a 9x13-inch pan. Let cool completely.\", \"Crumble the cooled cake into fine crumbs in a large bowl. Add 1/2 cup frosting and mix with your hands until a dough forms.\", \"Roll the dough into 1-inch balls and place on a parchment-lined baking sheet. Insert a lollipop stick into each ball. Freeze for 20 minutes.\", \"Melt the chocolate wafers with coconut oil in a double boiler or heatproof bowl set over simmering water. Stir until smooth.\", \"Dip each frozen cake pop into the melted chocolate, letting excess drip off. Place upright in a styrofoam block or on parchment to set.\", \"Let the coating harden completely before packing. Store in a sealed container in a cooler for up to 3 days.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"30\", \"cook_time\": \"25\", \"total_time\": null, \"calories\": null}"
