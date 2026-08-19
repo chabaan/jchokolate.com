@@ -2,7 +2,7 @@
 title: "Chocolate Oatmeal Cookies Change Your Camping Menu"
 meta: "Learn how chocolate oatmeal cookies change everything on your camping trip with a no-bake, packable recipe and pro camp kitchen tips."
 category: "Cookies & Brownies"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-oatmeal-cookies-change-your-camping-menu.webp"
 pubDate: "2026-07-28T11:22:18Z"
 recipe: "{\"title\": \"Chocolate Oatmeal Cookies Change Your Camping Menu\", \"ingredients\": [\"2 cups rolled oats\", \"1/2 cup cocoa powder (unsweetened)\", \"1/2 cup peanut butter (creamy or crunchy)\", \"1/2 cup coconut oil (or butter)\", \"1/2 cup honey (or maple syrup)\", \"1 teaspoon vanilla extract\", \"1/4 teaspoon salt\"], \"instructions\": [\"Line a baking sheet or flat container with parchment paper.\", \"In a small pot over a camp stove or fire, combine the coconut oil, peanut butter, and honey. Stir over medium heat until melted and smooth.\", \"Remove from heat. Stir in the cocoa powder, vanilla, and salt until fully incorporated.\", \"Pour in the rolled oats. Mix until every oat is coated.\", \"Drop spoonfuls of the mixture onto the parchment paper. Flatten slightly with the back of the spoon.\", \"Place the sheet in a cooler or a cold spot (or fridge if available) for at least 30 minutes until firm.\", \"Store in an airtight container between layers of parchment. These keep for up to 5 days at camp.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"10\", \"cook_time\": \"5\", \"total_time\": null, \"calories\": null}"
