@@ -2,7 +2,7 @@
 title: "Homemade Hot Chocolate Changes Camping"
 meta: "Discover how homemade hot chocolate changes everything on a camping trip. Get the real recipe, gear tips, and a no-fail method for rich, cozy cups."
 category: "Chocolate Desserts & Inspiration"
-author: "JuliaPrince12"
+author: "Julia Prince"
 image: "/images/homemade-hot-chocolate-changes-camping.webp"
 pubDate: "2026-07-30T16:53:59Z"
 recipe: "{\"title\": \"Homemade Hot Chocolate Changes Camping\", \"ingredients\": [\"4 cups whole milk (or shelf-stable milk)\", \"1/2 cup heavy cream (optional, for richness)\", \"1/3 cup unsweetened cocoa powder\", \"1/3 cup granulated sugar\", \"4 ounces dark chocolate (60-70% cacao), finely chopped\", \"1/4 teaspoon kosher salt\", \"1/2 teaspoon vanilla extract\", \"mini marshmallows or whipped cream for topping (optional)\"], \"instructions\": [\"At home or at camp: In a medium saucepan, whisk together the cocoa powder, sugar, and salt. Add about 1/2 cup of the milk and whisk into a smooth paste. This prevents lumps.\", \"Place the saucepan on your camp stove over medium heat. Slowly pour in the remaining milk and the heavy cream (if using), whisking constantly. Heat until small bubbles form around the edges — do not boil.\", \"Reduce the heat to low. Add the chopped dark chocolate and whisk until completely melted and smooth. Remove from heat.\", \"Stir in the vanilla extract. Taste and add more sugar if needed.\", \"Pour into mugs and top with marshmallows or whipped cream. Serve immediately.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"5\", \"cook_time\": \"10\", \"total_time\": null, \"calories\": null}"
