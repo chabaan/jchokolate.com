@@ -2,7 +2,7 @@
 title: "Chocolate Chia Breakfast Pudding: Camping Fix"
 meta: "Stop making soggy, bland chocolate chia breakfast pudding at camp. Learn the 5-minute prep trick and why overnight isn't always best."
 category: "Chocolate Cakes & Cupcakes"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-chia-breakfast-pudding-camping-fix.webp"
 pubDate: "2026-07-20T21:49:16Z"
 recipe: "{\"title\": \"Chocolate Chia Breakfast Pudding: Camping Fix\", \"ingredients\": [\"3 tbsp chia seeds\", \"2 tbsp unsweetened cocoa powder (or raw cacao powder)\", \"1 tbsp maple syrup or honey (adjust to taste)\", \"1 cup canned coconut milk (full-fat, shaken well; or any milk of choice)\", \"1/4 tsp vanilla extract (optional)\", \"1 pinch sea salt\"], \"instructions\": [\"In a clean 16-oz mason jar or wide-mouth water bottle, combine chia seeds, cocoa powder, maple syrup, vanilla, and salt. Shake or stir to mix dry ingredients.\", \"Pour in the coconut milk. Stir vigorously with a fork or spoon for 30 seconds until no dry cocoa clumps remain. Scrape the sides.\", \"Let the mixture sit for 5 minutes. Then stir again for 15 seconds, breaking up any clumps that have formed at the bottom.\", \"Tighten the lid and let the jar sit at room temperature for another 5 minutes. The pudding will thicken to a creamy, spoonable texture.\", \"Top with optional toppings: sliced banana, a few chocolate chips, or a sprinkle of cinnamon. Eat immediately, or refrigerate in a cooler for a cold breakfast the next morning.\"], \"equipment\": [], \"servings\": \"2\", \"prep_time\": \"10\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
