@@ -2,7 +2,7 @@
 title: "Chocolate Smoothie: The Secret Revealed"
 meta: "Learn the secret to a rich chocolate smoothie that stays cold on the trail. Expert tips for blending, packing, and serving at your campsite."
 category: "Chocolate Desserts & Inspiration"
-author: "RosaSondos0"
+author: "Rosa Sondos"
 image: "/images/chocolate-smoothie-the-secret-revealed.webp"
 pubDate: "2026-07-25T11:17:42Z"
 recipe: "{\"title\": \"Chocolate Smoothie: The Secret Revealed\", \"ingredients\": [\"1 large ripe banana, peeled and frozen\", \"2 tablespoons unsweetened cocoa powder (Dutch-processed preferred)\", \"1 cup milk (dairy or plant-based) (cold)\", \"1 tablespoon honey or maple syrup (optional, adjust to taste)\", \"1 pinch fine sea salt (the secret ingredient)\", \"1/2 cup ice cubes (optional for extra chill)\"], \"instructions\": [\"1. Place the frozen banana chunks, cocoa powder, cold milk, honey or maple syrup, and pinch of salt into a blender.\", \"2. Blend on high until completely smooth, about 30-45 seconds. If the mixture is too thick, add a splash more milk and blend again.\", \"3. Taste and adjust sweetness or salt. Pour into two cups or reusable bottles and serve immediately, or freeze for later.\"], \"equipment\": [], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
