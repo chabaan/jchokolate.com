@@ -3,7 +3,7 @@ title: "Chocolate Espresso Cookies: 5-Minute Hack"
 meta: "Make chocolate espresso cookies at camp with this 5-minute hack. No oven needed, just a camp stove and a few simple ingredients for a quick treat."
 category: "Cookies & Brownies"
 author: "RosaSondos0"
-image: "https://jchokolate.com/wp-content/uploads/2026/07/chocolate-espresso-cookies-5-minute-hack.webp"
+image: "/images/chocolate-espresso-cookies-5-minute-hack.webp"
 pubDate: "2026-07-28T21:31:52Z"
 recipe: "{\"title\": \"Chocolate Espresso Cookies: 5-Minute Hack\", \"ingredients\": [\"1 cup rolled oats\", \"1 tablespoon unsweetened cocoa powder\", \"1 teaspoon instant espresso powder\", \"2 tablespoons honey or maple syrup\", \"1 tablespoon coconut oil or butter\", \"1 tablespoon water (only if mixture is too dry)\", \"1 pinch salt\"], \"instructions\": [\"Combine rolled oats, cocoa powder, instant espresso powder, and salt in a small bowl. Stir to mix evenly.\", \"In a small pot or skillet over low heat, melt the coconut oil or butter with the honey or maple syrup. Stir until smooth and bubbling slightly.\", \"Pour the wet mixture into the dry ingredients. Stir until everything is well coated. If the mixture seems too crumbly, add one tablespoon of water and stir again.\", \"Scoop spoonfuls of the mixture and shape into small cookie rounds, about 2 inches across. Press firmly to hold together.\", \"Place the cookies on a piece of parchment paper or a clean plate. Let them cool for 2 minutes. They will firm up as they cool. Enjoy warm or pack for later.\"], \"equipment\": [], \"servings\": \"8\", \"prep_time\": \"2\", \"cook_time\": \"3\", \"total_time\": null, \"calories\": null}"
 ---

@@ -3,7 +3,7 @@ title: "Chocolate Cake Balls: 5-Minute Hack for Camping"
 meta: "Make chocolate cake balls in 5 minutes with this no-bake camping hack. Easy, no-mess dessert using simple ingredients and a few camp-friendly tools."
 category: "Truffles & Candy"
 author: "RosaSondos0"
-image: "https://jchokolate.com/wp-content/uploads/2026/07/chocolate-cake-balls-5-minute-hack-for-c.webp"
+image: "/images/chocolate-cake-balls-5-minute-hack-for-camping.webp"
 pubDate: "2026-07-23T10:23:48Z"
 recipe: "{\"title\": \"Chocolate Cake Balls: 5-Minute Hack for Camping\", \"ingredients\": [\"2 cups chocolate sandwich cookies (crushed) (about 18 cookies, crushed into fine crumbs)\", \"4 ounces cream cheese (softened) (full-fat or reduced-fat both work)\", \"2 tablespoons unsweetened cocoa powder (for rolling)\", \"1 tablespoon powdered sugar (optional, for extra sweetness)\"], \"instructions\": [\"Crush the chocolate sandwich cookies into fine crumbs. Place them in a sealed zip-top bag and crush with the bottom of a mug or water bottle. Pour crumbs into a medium bowl.\", \"Add the softened cream cheese to the bowl with the cookie crumbs. Mix with a fork or your hands until fully combined. The mixture should hold together when pressed.\", \"Scoop out rounded tablespoon-sized portions and roll them into smooth balls between your palms. You should get about 8 balls.\", \"In a small bowl, combine the cocoa powder and powdered sugar (if using). Roll each ball in the mixture until evenly coated.\", \"Place the finished cake balls on a plate or in a container. Serve immediately or store in a cooler for up to 3 days.\"], \"equipment\": [], \"servings\": \"8\", \"prep_time\": \"5\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

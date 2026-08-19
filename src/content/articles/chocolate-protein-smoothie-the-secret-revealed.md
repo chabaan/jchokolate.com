@@ -3,7 +3,7 @@ title: "Chocolate Protein Smoothie: The Secret Revealed"
 meta: "Discover the secret to a creamy chocolate protein smoothie that works even at a campsite. No blender? No problem. Real technique, real results."
 category: "Chocolate Desserts & Inspiration"
 author: "RosaSondos0"
-image: "https://jchokolate.com/wp-content/uploads/2026/07/chocolate-protein-smoothie-the-secret-re.webp"
+image: "/images/chocolate-protein-smoothie-the-secret-revealed.webp"
 pubDate: "2026-07-29T18:12:19Z"
 recipe: "{\"title\": \"Chocolate Protein Smoothie: The Secret Revealed\", \"ingredients\": [\"1 scoop chocolate protein powder\", \"1 tablespoon unsweetened cocoa powder (natural or Dutch-process)\", \"1 tablespoon chia seeds\", \"1 cup unsweetened almond milk (or other milk, cold)\", \"1 tablespoon almond butter (or peanut butter)\", \"1 teaspoon maple syrup (optional, for sweetness)\"], \"instructions\": [\"Add all ingredients to a shaker bottle or a wide-mouth jar with a tight-fitting lid.\", \"Close the lid tightly and shake vigorously for 30 seconds.\", \"Let the mixture rest for 2 minutes. This is the secret step — it gives the chia seeds time to absorb liquid and the cocoa powder to fully hydrate, eliminating any grittiness.\", \"Shake again for 15 seconds.\", \"Pour into a cup and enjoy immediately, or drink straight from the bottle.\"], \"equipment\": [], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---
